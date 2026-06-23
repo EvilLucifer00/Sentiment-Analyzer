@@ -1,5 +1,7 @@
 # Sentiment Analyzer
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-success?style=for-the-badge&logo=appveyor)](https://sentiment-analyzer-bvlazmkmvswfgmkeaiskcq.streamlit.app/)
+
 A sentiment analysis system built using pretrained DistilBERT on 
 IMDB movie reviews. Achieves 89% accuracy with zero model training 
 — demonstrating the power of transfer learning for NLP tasks.
